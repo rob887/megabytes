@@ -1,0 +1,77 @@
+Payment Type:
+Payment        34
+Float Check     3
+Void            2
+
+Sales by Payment Method:
+Debit      16
+Voucher     9
+Cash        6
+Credit      3
+
+The most common payment method is: Debit
+
+The least common payment method is: Credit
+
+Items sold by each payment method:
+Cash       21
+Credit     12
+Debit      61
+Voucher    42
+
+Total cost made by each payment method:
+   Cash  31.4
+ Credit  20.9
+  Debit 101.7
+Voucher  67.1
+
+The average item price is: 1.61
+
+The total items sold is: 684
+
+The average items in a basket is: 5
+
+The maximum items in a basket is: 9
+
+The minimum items in a basket is: 1
+
+The most popular item sold is: Tea
+
+The least popular item sold is: Buttered Roll
+
+The total cost is: 1100.60
+
+The average cost in a basket is: 8.09
+
+The maximum cost in a basket is: 12.50
+
+The minimum cost in a basket is: 1.00
+
+Sales by Staff:
+Charlie    38
+Olu        27
+Ima        27
+Emma       21
+Alex       15
+Hayley      8
+
+The most common staff member is: Charlie
+
+The least common staff member is: Hayley
+
+Items sold by each staff member:
+Alex        59
+Charlie    216
+Emma        89
+Hayley      40
+Ima        143
+Olu        137
+
+Total cost made by each staff member:
+   Alex 106.1
+Charlie 335.5
+   Emma 130.9
+ Hayley  74.8
+    Ima 234.9
+    Olu 218.4
+

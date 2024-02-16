@@ -1,0 +1,77 @@
+Payment Type:
+Payment        43
+Float Check     4
+Void            3
+
+Sales by Payment Method:
+Debit      27
+Cash        6
+Voucher     5
+Credit      5
+
+The most common payment method is: Debit
+
+The least common payment method is: Voucher
+
+Items sold by each payment method:
+Cash       22
+Credit     19
+Debit      99
+Voucher    13
+
+Total cost made by each payment method:
+   Cash  36.9
+ Credit  36.5
+  Debit 171.0
+Voucher  24.0
+
+The average item price is: 1.73
+
+The total items sold is: 657
+
+The average items in a basket is: 4
+
+The maximum items in a basket is: 7
+
+The minimum items in a basket is: 1
+
+The most popular item sold is: Americano
+
+The least popular item sold is: Panini
+
+The total cost is: 1137.50
+
+The average cost in a basket is: 7.43
+
+The maximum cost in a basket is: 11.50
+
+The minimum cost in a basket is: 1.70
+
+Sales by Staff:
+Ima        37
+Hayley     27
+Alex       27
+Emma       26
+Charlie    25
+Olu        11
+
+The most common staff member is: Ima
+
+The least common staff member is: Olu
+
+Items sold by each staff member:
+Alex        97
+Charlie    105
+Emma       104
+Hayley     141
+Ima        167
+Olu         43
+
+Total cost made by each staff member:
+   Alex 173.2
+Charlie 172.7
+   Emma 179.4
+ Hayley 222.6
+    Ima 305.7
+    Olu  83.9
+
